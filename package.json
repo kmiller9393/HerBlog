@@ -13,7 +13,7 @@
     "cron": "^1.7.1",
     "dotenv": "^8.1.0",
     "emailjs-com": "^2.3.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql": "^14.5.4",
     "graphql-hooks": "^3.6.1",
     "graphql-hooks-memcache": "^1.2.2",
